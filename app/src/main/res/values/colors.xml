@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+
+    <color name="xAccent">#03d9c0</color>
+    <color name="oAccent">#d63103</color>
+    <color name="noneAccent">#FFFFFF</color>
+    <color name="playableIndex">#FFFFFF</color>
+    <color name="nonePlayableIndex">#C0C0C0</color>
+    <color name="xSelectedAccent">#8adbda</color>
+    <color name="oSelectedAccent">#d69b87</color>
+</resources>

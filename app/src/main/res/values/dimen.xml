@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- game bar -->
+        <!-- root -->
+            <dimen name="gameBar_constraintLayout_root_layout_height">100dp</dimen>
+        <!-- menu -->
+            <dimen name ="gameBar_constraintLayout_menu_padding">20dp</dimen>
+            <dimen name ="gameBar_text_time_textSize">50sp</dimen>
+            <dimen name ="gameBar_text_time_strokeWidth">2sp</dimen>
+</resources>
